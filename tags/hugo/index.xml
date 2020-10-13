@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on hugh blog</title>
+    <link>https://hughjj.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on hugh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 12 Oct 2020 14:49:05 +0800</lastBuildDate><atom:link href="https://hughjj.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用hugo在github创建博客</title>
+      <link>https://hughjj.github.io/post/hugo/use/</link>
+      <pubDate>Mon, 12 Oct 2020 14:49:05 +0800</pubDate>
+      
+      <guid>https://hughjj.github.io/post/hugo/use/</guid>
+      <description>本地安装hugo 参考： https://github.com/gohugoio/hugo brew方式(mac) # Homebrew (macOS) brew install hugo # 验证安装 hugo version golang方式 需要本地有golang环境，至少go1.11版本，安装方式自行百度 直接使用go命令安装 # 开启go mod export GO111MODULE=on # 下载安装 go get -v github.com/gohugoio/hugo # 执行完成后可以$GOPATH/bin下有对应的可执行文件，如果不成功，</description>
+    </item>
+    
+  </channel>
+</rss>

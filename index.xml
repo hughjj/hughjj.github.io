@@ -6,14 +6,41 @@
     <description>Recent content on hugh blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2020 14:30:40 +0800</lastBuildDate><atom:link href="https://hughjj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 14:49:05 +0800</lastBuildDate><atom:link href="https://hughjj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Use</title>
-      <link>https://hughjj.github.io/hugo/use/</link>
-      <pubDate>Mon, 12 Oct 2020 14:30:40 +0800</pubDate>
+      <title>关于</title>
+      <link>https://hughjj.github.io/about/</link>
+      <pubDate>Tue, 13 Oct 2020 10:47:32 +0800</pubDate>
       
-      <guid>https://hughjj.github.io/hugo/use/</guid>
-      <description>这是hugo</description>
+      <guid>https://hughjj.github.io/about/</guid>
+      <description>后端程序猿一名 使用过PHP，java，golang等后端语言 邮箱：hugh54255@163.com</description>
+    </item>
+    
+    <item>
+      <title>使用hugo在github创建博客</title>
+      <link>https://hughjj.github.io/post/hugo/use/</link>
+      <pubDate>Mon, 12 Oct 2020 14:49:05 +0800</pubDate>
+      
+      <guid>https://hughjj.github.io/post/hugo/use/</guid>
+      <description>本地安装hugo 参考： https://github.com/gohugoio/hugo brew方式(mac) # Homebrew (macOS) brew install hugo # 验证安装 hugo version golang方式 需要本地有golang环境，至少go1.11版本，安装方式自行百度 直接使用go命令安装 # 开启go mod export GO111MODULE=on # 下载安装 go get -v github.com/gohugoio/hugo # 执行完成后可以$GOPATH/bin下有对应的可执行文件，如果不成功，</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://hughjj.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughjj.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://hughjj.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughjj.github.io/search/</guid>
+      <description></description>
     </item>
     
   </channel>
